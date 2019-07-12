@@ -1,0 +1,7 @@
+{
+    "homepage": "https://github.com/SongFuZhen/SFZScoopBucket",
+    "description": "SFZ Scoop Bucket",
+    "version": "1.0.0",
+    "url": "https://api.cacher.io/raw/3fe0e2e55ea5bf37ba8c/888e19f80a9390017929/hello_scoop.ps1",
+    "bin": "hello_scoop.ps1"
+}
